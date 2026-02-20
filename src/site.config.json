@@ -1,0 +1,420 @@
+{
+  "company": {
+    "name": "WVN Construction",
+    "shortName": "WVN",
+    "legalName": "WVN Construction Pvt. Ltd.",
+    "tagline": "Engineering Nepal's Future",
+    "description": "Nepal's trusted Class A licensed contractor — delivering earthquake-resilient, Vastu-compliant structures across Kathmandu Valley, Pokhara, Chitwan, and beyond.",
+    "foundedYear": 2013,
+    "website": "https://wvnconstruction.com.np"
+  },
+
+  "hero": {
+    "badge": "NEC & OCR Registered",
+    "headline": ["Building", "Earthquake-", "Resilient", "Dreams in Nepal"],
+    "subheadline": "Nepal's trusted construction partner — delivering seismically-safe, Vastu-compliant structures with engineering precision. From Naksha Pass to handover.",
+    "primaryCTA": "Request Quote",
+    "secondaryCTA": "View Portfolio",
+    "featurePills": [
+      "IS 1893 Seismic Compliant",
+      "On-Time Delivery",
+      "Transparent Pricing"
+    ],
+    "licenseHighlight": {
+      "title": "Government Licensed — Class A",
+      "subtitle": "OCR Registered · PAN/VAT Verified · NEC Member · FCAN Affiliated"
+    }
+  },
+
+  "stats": [
+    { "value": "12+", "label": "Years Experience" },
+    { "value": "350+", "label": "Projects Completed" },
+    { "value": "Class A", "label": "Licensed Contractor" },
+    { "value": "100%", "label": "Vastu Compliant" }
+  ],
+
+  "contact": {
+    "phone": "+977-9800-000000",
+    "phoneRaw": "9779800000000",
+    "email": "info@wvnconstruction.com.np",
+    "address": {
+      "street": "Baneshwor",
+      "city": "Kathmandu",
+      "country": "Nepal",
+      "postalCode": "44600",
+      "full": "Baneshwor, Kathmandu, Nepal"
+    },
+    "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3532.2!2d85.3240!3d27.7172!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjfCsDQzJzAyLjEiTiA4NcKwMTknMjYuNCJF!5e0!3m2!1sen!2snp!4v1630000000000",
+    "googleMapsLink": "https://maps.google.com/?q=Baneshwor,Kathmandu"
+  },
+
+  "hours": {
+    "weekdays": "Sun – Fri: 9:00 AM – 6:00 PM",
+    "saturday": "Saturday: 10:00 AM – 2:00 PM"
+  },
+
+  "social": {
+    "facebook": "https://facebook.com/wvnconstruction",
+    "instagram": "https://instagram.com/wvnconstruction",
+    "youtube": "https://youtube.com/@wvnconstruction",
+    "whatsapp": "https://wa.me/9779800000000",
+    "viber": "viber://chat?number=9779800000000"
+  },
+
+  "credentials": {
+    "pan": "PAN: 700-XXX-XXXX",
+    "vat": "VAT Registered",
+    "ocr": "OCR: XYZ-2023",
+    "license": "Class A License",
+    "licenseClass": "Class A",
+    "ocrNumber": "OCR-XYZ-2023"
+  },
+
+  "trustBar": [
+    {
+      "id": "ocr",
+      "title": "OCR Registered",
+      "subtitle": "Office of the Company Registrar",
+      "color": "text-blue-400",
+      "bg": "bg-blue-400/10",
+      "border": "border-blue-400/20"
+    },
+    {
+      "id": "panvat",
+      "title": "PAN / VAT Verified",
+      "subtitle": "Inland Revenue Dept., GoN",
+      "color": "text-green-400",
+      "bg": "bg-green-400/10",
+      "border": "border-green-400/20"
+    },
+    {
+      "id": "license",
+      "title": "Class A Licensed",
+      "subtitle": "Contractor License Category",
+      "color": "text-orange-400",
+      "bg": "bg-orange-400/10",
+      "border": "border-orange-400/20"
+    },
+    {
+      "id": "nec",
+      "title": "NEC Member",
+      "subtitle": "Nepal Engineering Council",
+      "color": "text-purple-400",
+      "bg": "bg-purple-400/10",
+      "border": "border-purple-400/20"
+    },
+    {
+      "id": "fcan",
+      "title": "FCAN Affiliated",
+      "subtitle": "Federation of Contractors' Assoc.",
+      "color": "text-cyan-400",
+      "bg": "bg-cyan-400/10",
+      "border": "border-cyan-400/20"
+    }
+  ],
+
+  "services": [
+    {
+      "id": "residential",
+      "title": "Residential Construction",
+      "description": "Premium homes built with seismic safety and Vastu principles at the core.",
+      "items": [
+        "Luxury villas & bungalows",
+        "Multi-story apartments",
+        "Earthquake-resilient RCC",
+        "100% Vastu compliant"
+      ],
+      "accent": "text-orange-400",
+      "accentBg": "bg-orange-400/10",
+      "accentBorder": "border-orange-400/20"
+    },
+    {
+      "id": "commercial",
+      "title": "Commercial Projects",
+      "description": "Large-scale commercial infrastructure delivered on time and on budget.",
+      "items": [
+        "Shopping malls & retail",
+        "Office complexes",
+        "Warehouses & factories",
+        "Hotels & hospitality"
+      ],
+      "accent": "text-blue-400",
+      "accentBg": "bg-blue-400/10",
+      "accentBorder": "border-blue-400/20"
+    },
+    {
+      "id": "government",
+      "title": "Government & Infrastructure",
+      "description": "Public infrastructure built to GoN standards and engineering codes.",
+      "items": [
+        "Roads & highways",
+        "Bridges & culverts",
+        "Irrigation systems",
+        "Public buildings"
+      ],
+      "accent": "text-green-400",
+      "accentBg": "bg-green-400/10",
+      "accentBorder": "border-green-400/20"
+    },
+    {
+      "id": "interior",
+      "title": "Interior & Renovation",
+      "description": "Transformative interiors and structural retrofitting for modern living.",
+      "items": [
+        "Modular kitchens",
+        "False ceilings & lighting",
+        "Seismic retrofitting",
+        "Full-home renovation"
+      ],
+      "accent": "text-purple-400",
+      "accentBg": "bg-purple-400/10",
+      "accentBorder": "border-purple-400/20"
+    }
+  ],
+
+  "bentoValues": [
+    {
+      "id": "seismic",
+      "title": "Earthquake Resilient",
+      "description": "All structures engineered to IS 1893 seismic code with RCC frame design, ensuring your family's safety in Nepal's high-risk zone.",
+      "accentColor": "text-orange-400",
+      "large": true
+    },
+    {
+      "id": "ontime",
+      "title": "On-Time Delivery",
+      "description": "Milestone-based project management with transparent reporting. We've maintained 96% on-time delivery across 350+ projects.",
+      "accentColor": "text-blue-400",
+      "large": false
+    },
+    {
+      "id": "licensed",
+      "title": "Government Licensed",
+      "description": "Class A contractor, OCR registered, NEC certified engineers, and PAN/VAT verified. Full legal compliance guaranteed.",
+      "accentColor": "text-green-400",
+      "large": false
+    },
+    {
+      "id": "pricing",
+      "title": "Transparent Pricing",
+      "description": "Detailed BOQ (Bill of Quantities) provided upfront. No hidden costs. Fixed-price contracts available for residential projects.",
+      "accentColor": "text-yellow-400",
+      "large": false
+    },
+    {
+      "id": "excellence",
+      "title": "12+ Years of Excellence",
+      "description": "From a 3-aana Kathmandu home to 50,000 sq.ft. commercial complexes — our portfolio spans Nepal's most demanding projects.",
+      "accentColor": "text-purple-400",
+      "large": true
+    },
+    {
+      "id": "machinery",
+      "title": "Own Machinery Fleet",
+      "description": "Excavators, transit mixers, theodolites, and scaffolding owned in-house — no subcontracting delays, full mobilization control.",
+      "accentColor": "text-cyan-400",
+      "large": false
+    }
+  ],
+
+  "portfolio": [
+    {
+      "id": 1,
+      "title": "Sharma Residence",
+      "location": "Kathmandu, Baneshwor",
+      "category": "Residential",
+      "status": "Completed",
+      "area": "12 Aana",
+      "duration": "14 months",
+      "highlight": "Full Vastu compliance on irregular plot",
+      "image": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=600&q=80"
+    },
+    {
+      "id": 2,
+      "title": "Himalayan Business Park",
+      "location": "Pokhara, Lakeside",
+      "category": "Commercial",
+      "status": "Ongoing",
+      "area": "48,000 Sq.Ft.",
+      "duration": "24 months",
+      "highlight": "High-altitude seismic design",
+      "image": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=600&q=80"
+    },
+    {
+      "id": 3,
+      "title": "Kalanki–Nagdhunga Road",
+      "location": "Kathmandu Valley",
+      "category": "Government",
+      "status": "Completed",
+      "area": "8.4 km stretch",
+      "duration": "18 months",
+      "highlight": "DoR Contract, monsoon-grade drainage",
+      "image": "https://images.unsplash.com/photo-1621193793262-4127d9855c91?w=600&q=80"
+    },
+    {
+      "id": 4,
+      "title": "Paudel Luxury Bungalow",
+      "location": "Bhaktapur, Suryabinayak",
+      "category": "Residential",
+      "status": "Completed",
+      "area": "6 Aana",
+      "duration": "10 months",
+      "highlight": "3-aana plot, 100% seismically retrofitted",
+      "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600&q=80"
+    },
+    {
+      "id": 5,
+      "title": "Sunrise Shopping Complex",
+      "location": "Chitwan, Bharatpur",
+      "category": "Commercial",
+      "status": "Completed",
+      "area": "32,000 Sq.Ft.",
+      "duration": "20 months",
+      "highlight": "5-story mall with basement parking",
+      "image": "https://images.unsplash.com/photo-1555636222-cae831e670b3?w=600&q=80"
+    },
+    {
+      "id": 6,
+      "title": "Irrigation Canal — Phase 2",
+      "location": "Sarlahi, Terai",
+      "category": "Government",
+      "status": "Ongoing",
+      "area": "14 km network",
+      "duration": "30 months",
+      "highlight": "DOI funded, 6,000 Ropani coverage",
+      "image": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=600&q=80"
+    }
+  ],
+
+  "costRates": {
+    "Standard": 3200,
+    "Premium": 4500,
+    "Luxury": 6500
+  },
+
+  "processSteps": [
+    {
+      "step": "01",
+      "title": "Site Survey & Design",
+      "subtitle": "Week 1–4",
+      "description": "Topographic survey, soil investigation, architectural drawing, and structural design by NEC-certified engineers.",
+      "color": "text-blue-400",
+      "bg": "bg-blue-400/10",
+      "border": "border-blue-400/30"
+    },
+    {
+      "step": "02",
+      "title": "Municipal Approval",
+      "subtitle": "Week 4–10",
+      "description": "Naksha Pass (building permit) processing at Ward Office or Municipal Corporation. We handle all documentation.",
+      "color": "text-yellow-400",
+      "bg": "bg-yellow-400/10",
+      "border": "border-yellow-400/30"
+    },
+    {
+      "step": "03",
+      "title": "Foundation",
+      "subtitle": "Month 3–5",
+      "description": "Excavation, PCC, RCC footing with seismic tie beams. Soil test-verified foundation depth with quality cement.",
+      "color": "text-orange-400",
+      "bg": "bg-orange-400/10",
+      "border": "border-orange-400/30"
+    },
+    {
+      "step": "04",
+      "title": "Superstructure",
+      "subtitle": "Month 5–14",
+      "description": "RCC columns, beams, slabs, brickwork, waterproofing, and roof slab casting as per structural drawings.",
+      "color": "text-red-400",
+      "bg": "bg-red-400/10",
+      "border": "border-red-400/30"
+    },
+    {
+      "step": "05",
+      "title": "Finishing",
+      "subtitle": "Month 14–18",
+      "description": "Plumbing, electrical, flooring, plastering, painting, modular kitchen, and full interior as per BOQ.",
+      "color": "text-purple-400",
+      "bg": "bg-purple-400/10",
+      "border": "border-purple-400/30"
+    },
+    {
+      "step": "06",
+      "title": "Handover",
+      "subtitle": "Month 18",
+      "description": "Final inspection, snagging, completion certificate, and key handover with 1-year defect liability period.",
+      "color": "text-green-400",
+      "bg": "bg-green-400/10",
+      "border": "border-green-400/30"
+    }
+  ],
+
+  "about": {
+    "bio": [
+      "WVN Construction was founded with a singular mission: to bring world-class engineering standards to Nepal's rapidly growing construction landscape — without compromising on local wisdom, affordability, or safety.",
+      "After the 2015 Gorkha Earthquake, we doubled down on seismic resilience, making IS 1893 compliance mandatory on every project. Today, every structure we build is engineered to withstand a 7.5 magnitude event — because in Nepal, that's not a feature, it's a responsibility."
+    ],
+    "tags": ["12+ Years Heritage", "350+ Projects", "NEC Certified", "OCR Registered"],
+    "machinery": [
+      "2× JCB 3CX Backhoe Excavators",
+      "4× Transit Mixers (6 Cu.M.)",
+      "3× Tower Cranes (12T capacity)",
+      "Leica TS16 Theodolite & Total Station",
+      "Concrete Pump (32m boom)",
+      "Full scaffolding & shuttering fleet"
+    ],
+    "team": [
+      {
+        "name": "Er. Ramesh Shrestha",
+        "role": "Chief Structural Engineer",
+        "nec": "NEC-CE-12345",
+        "specialization": "Seismic Design & RCC Structures",
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&q=80"
+      },
+      {
+        "name": "Er. Sushma Adhikari",
+        "role": "Lead Civil Engineer",
+        "nec": "NEC-CE-23456",
+        "specialization": "Foundation & Geotechnical",
+        "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=300&q=80"
+      },
+      {
+        "name": "Er. Bikash Thapa",
+        "role": "Project Manager",
+        "nec": "NEC-CE-34567",
+        "specialization": "Infrastructure & Roads",
+        "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=300&q=80"
+      },
+      {
+        "name": "Er. Priya Gurung",
+        "role": "Architectural Engineer",
+        "nec": "NEC-AE-45678",
+        "specialization": "Vastu & Sustainable Design",
+        "image": "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=300&q=80"
+      }
+    ]
+  },
+
+  "footer": {
+    "quickLinks": [
+      { "label": "Services", "href": "#services" },
+      { "label": "Portfolio", "href": "#portfolio" },
+      { "label": "About Us", "href": "#about" },
+      { "label": "Contact", "href": "#contact" },
+      { "label": "Cost Estimator", "href": "#calculator" }
+    ],
+    "legalLinks": [
+      { "label": "Career / Hiring", "href": "#" },
+      { "label": "Privacy Policy", "href": "#" },
+      { "label": "Terms of Service", "href": "#" }
+    ]
+  },
+
+  "seo": {
+    "title": "WVN Construction | Building Nepal's Future",
+    "description": "WVN Construction — Nepal's trusted Class A licensed contractor. Earthquake-resilient, Vastu-compliant structures across Kathmandu, Pokhara, and Chitwan.",
+    "keywords": "construction Nepal, contractor Kathmandu, earthquake resilient, NEC certified, Class A contractor, residential commercial government",
+    "ogTitle": "WVN Construction | Building Nepal's Future",
+    "ogDescription": "Class A licensed contractor delivering seismically-safe, Vastu-compliant structures across Nepal."
+  }
+}
